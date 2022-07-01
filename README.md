@@ -1,4 +1,4 @@
-# Indus Uni Student Fee Deposits App
+# Institue's Student Fee Deposits App
  Java (Andoid Studio) - USES API from indus.rubick.org
 
 An app that collect json values from a database and set in a table view.
